@@ -2,7 +2,9 @@
 App created with React
 
 -Ref system - Accessing the DOM with Refs
+
 -API Requests with React 
+
 -Components and Prop system
 
 -State and Handling Events
